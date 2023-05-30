@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lost &amp; Found App</string>
+    <string name="PingFangSC_Regular">PingFangSC-Regular</string>
+    <string name="demo_name_suggestion_search">Location Search</string>
+    <string name="demo_desc_suggestion_search">Combine sug search and POI to precisely find the expected POI</string>
+    <string name="defaultCity">Beijing</string>
+    <string name="in">in</string>
+    <string name="search_poi">Sear-ch</string>
+    <string name="search">within to search</string>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="30dp"
+    tools:context=".RemoveActivity">
+
+    <TextView
+        android:id="@+id/removeTv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Found Apple AirPods \n\n2 days ago \n\nAt Burwood campus"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/remove"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="30dp"
+        android:background="@drawable/style_button"
+        android:text="REMOVE"
+        android:textColor="#6E6E6E"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>
